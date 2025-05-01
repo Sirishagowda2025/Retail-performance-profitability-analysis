@@ -13,22 +13,22 @@ The dataset used for this project contains 9,994 retail transactions from a mult
 
 ✅ Main Features:
 
-Column Name      	Description
+Column Name  -  	Description
 
-Order ID	      #Unique order identifier
-Order Date	    #Date when the order was placed
-Ship Date	      #Date when the order was shipped
-Ship Mode	      #Shipping method used
-Region	        #Geographical region (West, East, Central, South)
-Category	      #Product category (Furniture, Office Supplies, Technology)
-Sub-Category   	#Product sub-category (e.g., Chairs, Phones, Binders)
-Product Name	  #Name of the product sold
-Quantity	      #Quantity of units sold
-Sales	          #Sales amount (₹)
-Profit	        #Profit earned (₹)
-Profit Margin	  #Profit margin percentage
-Delivery Time	  #Delivery time in days
-Season	        #Season of sale (Winter, Spring, Summer, Fall)
+*Order ID	   -   Unique order identifier
+*Order Date	 -   Date when the order was placed
+*Ship Date	  -   Date when the order was shipped
+*Ship Mode	  -   Shipping method used
+*Region	     -   Geographical region (West, East, Central, South)
+*Category	   -   Product category (Furniture, Office Supplies, Technology)
+*Sub-Category - 	Product sub-category (e.g., Chairs, Phones, Binders)
+*Product Name	 -  Name of the product sold
+*Quantity	   -   Quantity of units sold
+*Sales	       -   Sales amount (₹)
+*Profit	      -  Profit earned (₹)
+*Profit Margin	-  Profit margin percentage
+*Delivery Time	-  Delivery time in days
+*Season	       - Season of sale (Winter, Spring, Summer, Fall)
 
 📊 Dataset Summary:
 *Total Transactions: 9,994
@@ -97,9 +97,10 @@ Season	        #Season of sale (Winter, Spring, Summer, Fall)
 
 # 📂 Repository Structure
 
--Retail_Profit_Dashboard.pbit	      #Power BI dashboard template file
-SQL_Queries.sql	                    #SQL scripts for cleaning & aggregation
-Insights_Report.pdf	                #PDF report summarizing findings & suggestions
+├──Super
+├──Retail_profit_and _performance_analysis.pbit	      #Power BI dashboard template file
+├──SQL+Python.pyib	                                   #SQL and Python scripts for cleaning & aggregation
+├──Insights_Report.pdf	                               #PDF report summarizing findings & suggestions
 
 # ✨ Why This Project Stands Out
 ✔️ Combines SQL, Python & Power BI in an integrated workflow
