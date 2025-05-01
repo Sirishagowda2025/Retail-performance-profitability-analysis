@@ -102,12 +102,6 @@ Column Name  -  	Description
 ├──SQL+Python.pynb	                                          #SQL and Python scripts for cleaning & aggregation
 ├── Retail Busniess Performance Insights Report.pdf	          #PDF report summarizing findings 
 
-# ✨ Why This Project Stands Out
-✔️ Combines SQL, Python & Power BI in an integrated workflow
-✔️ Focuses on business impact, not just reporting
-✔️ Includes diagnostic & prescriptive insights
-✔️ Tells a clear story → making data actionable for retail decisions
-
 # 📝 Summary
 This project demonstrates my ability to turn raw data into actionable insights that drive profitability improvements in retail operations. I built this solution to empower decision-makers to:
 ✅ Focus on profitable products
