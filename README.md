@@ -100,7 +100,7 @@ Column Name  -  	Description
 ├──Superstore Dataset.xlsx                                   #Dataset used foe the analysis
 ├──Retail profit and performance analysis project.pbit	      #Power BI dashboard template file
 ├──SQL+Python.pynb	                                          #SQL and Python scripts for cleaning & aggregation
-├──Insights Report.pdf	                                      #PDF report summarizing findings & suggestions
+├── Retail Busniess Performance Insights Report.pdf	          #PDF report summarizing findings 
 
 # ✨ Why This Project Stands Out
 ✔️ Combines SQL, Python & Power BI in an integrated workflow
