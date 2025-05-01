@@ -97,10 +97,10 @@ Column Name  -  	Description
 
 # 📂 Repository Structure
 
-├──Super
-├──Retail_profit_and _performance_analysis.pbit	      #Power BI dashboard template file
-├──SQL+Python.pyib	                                   #SQL and Python scripts for cleaning & aggregation
-├──Insights_Report.pdf	                               #PDF report summarizing findings & suggestions
+├──Superstore Dataset.xlsx                                   #Dataset used foe the analysis
+├──Retail profit and performance analysis project.pbit	      #Power BI dashboard template file
+├──SQL+Python.pynb	                                          #SQL and Python scripts for cleaning & aggregation
+├──Insights Report.pdf	                                      #PDF report summarizing findings & suggestions
 
 # ✨ Why This Project Stands Out
 ✔️ Combines SQL, Python & Power BI in an integrated workflow
