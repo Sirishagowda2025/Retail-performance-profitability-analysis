@@ -16,6 +16,10 @@ This subproject is part of the Retail Profitability Analysis. It predicts future
 ## 💻 Tools Used
 Python | Pandas | Plotly | Scikit-learn | Google Colab
 
+## Doucement
+
+-Linear Regression.ipynb      #Contain the code used for forecasting the sales
+
 ## 🔗 Notebook Link
 [Colab Notebook](https://colab.research.google.com/drive/1An1bfSrD45kBsuZTj6buj_tVcXdKAxlW?authuser=0#scrollTo=FtryF9R5ugln)
 
