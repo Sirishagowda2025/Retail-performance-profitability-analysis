@@ -1,4 +1,4 @@
-## 🛍️ Retail Business Performance & Profitability Analysis
+## 🛍️ Retail Business Performance & Profitability Analysis 
 
 # 🎯 Objective
 
@@ -94,6 +94,14 @@ Column Name  -  	Description
 -Profitability Analysis → Category & sub-category margins
 -Inventory & Delivery Dashboard → Delivery time vs profit analysis
 -Seasonal Insights → Sales & profit by season
+
+## 📂 Subprojects
+
+### 🔮 Sales Forecasting using Linear Regression
+📂 [Explore this subproject ➝](./Linear_Regression_Sales_Forecasting/README.md)
+- Built a forecasting model for future daily sales
+- Used Python, Pandas, Plotly, and Scikit-learn
+- Includes prediction graphs and insights
 
 # 📂 Repository Structure
 
