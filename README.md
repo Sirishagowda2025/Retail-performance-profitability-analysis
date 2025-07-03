@@ -46,8 +46,9 @@ Column Name  -  	Description
 -Power BI → Interactive dashboard & visualization storytelling
 
 # 📊 Dashboard Highlights
-Summary.jpeg
+
  ✅ Sales Overview
+ ![Sales Overview](Summary.jpeg)
 -Total Sales: ₹2.30M
 -Total Profit: ₹286.4K
 -Average Profit Margin: 12%
@@ -55,7 +56,7 @@ Summary.jpeg
 -Highest Region Sales: West Region (₹725K)
 
  ✅ Profitability Analysis
-Profit.jpeg
+![Category Analysis](Profit.jpeg)
  Profit-Draining Sub-Categories:
 
 -Tables → Loss -₹17.7K (Profit Margin -47%)
@@ -70,13 +71,13 @@ Profit.jpeg
 -Phones → Profit ₹44.5K (Profit Margin +106%)
 
  ✅ Inventory Turnover Insights
-Inventory.jpeg
+![Region Analysis](Inventory.jpeg)
 -Average Delivery Time: 3.96 days
 -Strong negative correlation between delivery time and profit → longer delivery time reduces profitability
 -Slow-moving items include Tables, Bookcases, Appliances
 
  ✅ Seasonal Product Behavior
-Seasonal.jpeg
+![Forecasting](Seasonal.jpeg)
 -Highest Sales Season: Fall (₹800K)
 -Top Profitable Season: Summer → driven by Phones & Accessories
 -Lowest Profit Season: Winter → driven by Furniture & Office Supplies losses
